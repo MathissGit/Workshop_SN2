@@ -45,6 +45,13 @@ solutions aux problèmes concrets liés à l'enseignement, l'accompagnement, etc
 - Finalisation des livrables
 - Passage devant un jury local
 
+## Ressources utilisés 
+- https://gamingcampus.fr/boite-a-outils/les-logiciels-de-jeux-video.html
+- https://youtu.be/uSHhY5eZrkQ?si=B4uuIZ-k-Ui1xo5M
+- https://youtu.be/NydncXWDLaA?si=5FdTxIusyIueSRFB
+- https://www.youtube.com/watch?v=Bzis-hGnzQY
+- https://github.com/CooldownCD/SchoolStrollSim
+
 ## Auteurs
 - [Mathis SINEUX](https://github.com/MathissGit)
 - [Hady BALDE](https://github.com/mugenbankai)

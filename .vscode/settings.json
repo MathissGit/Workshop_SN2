@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Workshop.sln"
+    "dotnet.defaultSolution": "Workshop Epsi.sln"
 }

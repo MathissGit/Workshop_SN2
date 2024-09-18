@@ -7,8 +7,6 @@ public class PlayerMovement : MonoBehaviour
     public float jumpingPower = 16f;
     private bool isFacingRight = true;
 
-    private Animator animator;
-
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
@@ -28,14 +26,11 @@ public class PlayerMovement : MonoBehaviour
         }
 
         Flip();
-
-        
     }
 
     private void FixedUpdate()
     {
         rb.velocity = new Vector2(horizontal * speed, rb.velocity.y);
-
     }
 
     private bool IsGrounded()

@@ -11,9 +11,15 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
 
+    // Ajout d'un Animator
+    public Animator animator;
+
     void Update()
     {
         horizontal = Input.GetAxisRaw("Horizontal");
+
+        // Mettre à jour le paramètre "Speed" de l'Animator avec la vitesse absolue du joueur
+        animator.SetFloat("Speed", Mathf.Abs(horizontal * speed));
 
         if (Input.GetButtonDown("Jump") && IsGrounded())
         {

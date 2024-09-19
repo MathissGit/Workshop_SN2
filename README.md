@@ -45,6 +45,15 @@ solutions aux problèmes concrets liés à l'enseignement, l'accompagnement, etc
 - Finalisation des livrables
 - Passage devant un jury local
 
+## Idée de notre jeu :
+Après la creation du groupe nous avons choisi de partir sur un jeu en 2D, de plateforme sur le logiciel Unity. Ce jeu a pour but de présenter le quotidient d'un éleve EPSI ainsi que de mettre a l'épreuve le joueur. 
+De cette maniere nous avons decidé de créer un jeu a 3 niveaux, chaque niveau représentant une partie du parcours scolaire d'un EPSIEN. 
+1er Niveau : Son trajet du matin et sa prepartion des affaire pour la route ( récuperation de son sac, cahier, café du matin ...etc )
+2eme Niveau : Journée de cours, résolution de probleme, quiz et interogation du joueur ( une resolution de probleme lorsque qu'il entre dans une classe, interagie avec un PNG ...etc )
+3eme Niveau : Gestion d'un projet de groupe, le joueur doit reglé des conflit de code, choisir une equipe et mener un projet a son terme ...etc
+4eme Niveau : Boss de fin. Le joueur doit reussir une epreuve de vitesse et recolter le plus d'ordinateur. 
+
+
 ## Ressources utilisés 
 - https://gamingcampus.fr/boite-a-outils/les-logiciels-de-jeux-video.html
 - https://youtu.be/uSHhY5eZrkQ?si=B4uuIZ-k-Ui1xo5M

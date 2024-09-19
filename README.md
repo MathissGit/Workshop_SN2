@@ -45,6 +45,39 @@ solutions aux problèmes concrets liés à l'enseignement, l'accompagnement, etc
 - Finalisation des livrables
 - Passage devant un jury local
 
+## Scénario du jeu :
+Après la creation du groupe nous avons choisi de partir sur un jeu en 2D, de plateforme sur le logiciel Unity. Ce jeu a pour but de présenter le quotidient d'un éleve EPSI ainsi que de mettre a l'épreuve le joueur. 
+De cette maniere nous avons decidé de créer un jeu a 3 niveaux, chaque niveau représentant une partie du parcours scolaire d'un EPSIEN. 
+1er Niveau : Son trajet du matin et sa prepartion des affaire pour la route ( récuperation de son sac, cahier, café du matin ...etc )
+2eme Niveau : Journée de cours, résolution de probleme, quiz et interogation du joueur ( une resolution de probleme lorsque qu'il entre dans une classe, interagie avec un PNG ...etc )
+3eme Niveau : Gestion d'un projet de groupe, le joueur doit reglé des conflit de code, choisir une equipe et mener un projet a son terme ...etc
+4eme Niveau : Boss de fin. Le joueur doit reussir une epreuve de vitesse et recolter le plus d'ordinateur. 
+
+## Themes mis en avant
+chaques niveau essaye de mettre en avant des etapes importante lors d'un parcours etudiant à l'EPSI.
+- La Vie Quotidienne d'un Étudiant EPSI : Le jeu explore son quotidien, ses défis, et sa progression au cours de l'année.
+- Résolution de Problèmes : Le deuxième niveau est plus centré sur les défis intellectuels, il met en avant la logique et la pensée critique de l'éléve.
+- Gestion de Projet : Le troisième niveau fait referance au travail collaboratif, la gestion de projet et la résolution de conflits dans un cadre de projet. 
+- Challenge Final : Le quatrième niveau, avec le "boss de fin", symbolise les examens de fin de modules ou la fin du parcours scolaire à l'EPSI.
+
+## Réflexion sur l'utilisation du jeux 
+Le jeu peut etre utilisée comme outils de communication lors des salon etudiant ou des journées portes ouvertes. Cela permet de ce faire une idée du quotidient d'un eleve tout en jouant sur un jeu créer par des eleves eux memes. Un outils tel que ce jeux permet d'etre original et ce démarquer des autres ecoles.
+
+## Plus-valus du projet
+Les joueurs peuvent ce rendre compte des compétance que l'ont peut acquerir lors d'un parcours scolaire a l'EPSI. Il sert de vitrine et de projet à présenter à de futurs éléves. 
+D'autre part les futurs éléves peuvent trouver dans ce jeu un sentiment d'appartenance a l'écoles. 
+
+## Accesibilité
+- Integration de déscription audio pour les elements visuel
+- Contraste élevé et grande police d'écriture pour les malvoyants
+- Sous-titre lors des dialogues
+- Indication visuel pour les actions importantes
+- Tutoriel détailé pour apprendre a joué au jeu
+- Ne pas surcharger le visuel d'informations
+
+## CONCLUSION 
+Le projet est d'une part un jeu divertisant mais aussi un outil de communication puissant à mettre en avant en toute occasion. Il permet de mettre en avant les valeurs et la dynamique de l'école pour un public qui possede deja une appétance pour l'informatique ou les jeux videos. En mettant en place des des fonctionalité inclusif et accessible, ce jeu pourrait devenir encore plus attractif. 
+
 ## Ressources utilisés 
 - https://gamingcampus.fr/boite-a-outils/les-logiciels-de-jeux-video.html
 - https://youtu.be/uSHhY5eZrkQ?si=B4uuIZ-k-Ui1xo5M
@@ -55,6 +88,7 @@ solutions aux problèmes concrets liés à l'enseignement, l'accompagnement, etc
 ## Auteurs
 - [Mathis SINEUX](https://github.com/MathissGit)
 - [Hady BALDE](https://github.com/mugenbankai)
+- [Aya HANDIRI](https://github.com/ayahandiri)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

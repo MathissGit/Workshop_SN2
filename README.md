@@ -7,27 +7,26 @@ Aujourd'hui, nous rassemblons des jeunes talents passionnés de programmation et
 À travers cette compétition, nous visons à exploiter le pouvoir de la programmation pour réaliser un jeu décrivant la vie quotidienne des étudiants en informatique.
 
 ## Objectif
-L'objectif est de donner envie à d'autres jeunes de choisir ce domaine d'études. Vous pourrez aussi évoquer les difficultés rencontrées par les étudiants, et suggérer des
-solutions aux problèmes concrets liés à l'enseignement, l'accompagnement, etc...
+L'objectif est de donner envie à d'autres jeunes de choisir ce domaine d'études. Vous pourrez aussi évoquer les difficultés rencontrées par les étudiants, et suggérer des solutions aux problèmes concrets liés à l'enseignement, l'accompagnement, etc.
 
 ## Points à respecter 
 - Travail collectif et coopération dans l’équipe.
-- Une solution simple mais fonctionnelle sera préférée à une solution complexe et non maitrisée.
+- Une solution simple mais fonctionnelle sera préférée à une solution complexe et non maîtrisée.
 - Adapté aux publics visés.
 - Créativité, innovation et accessibilité.
 
 ## Outils utilisés
 1. Communication et gestion de projet :
-   - Discord
-   - Trello
-   - GitHub
+- Discord
+- Trello
+- GitHub
 2. Développement de l'application :
-   - VSCode
-   - Unity
+- VSCode
+- Unity
 
 ## Déroulement du Workshop 
 ### Journée 1 :
-- Présenation du sujet
+- Présentation du sujet
 - Création des groupes
 - Recherche d'une idée
 - Début de la réalisation du projet
@@ -46,37 +45,37 @@ solutions aux problèmes concrets liés à l'enseignement, l'accompagnement, etc
 - Passage devant un jury local
 
 ## Scénario du jeu :
-Après la creation du groupe nous avons choisi de partir sur un jeu en 2D, de plateforme sur le logiciel Unity. Ce jeu a pour but de présenter le quotidient d'un éleve EPSI ainsi que de mettre a l'épreuve le joueur. 
-De cette maniere nous avons decidé de créer un jeu a 3 niveaux, chaque niveau représentant une partie du parcours scolaire d'un EPSIEN. 
-1er Niveau : Son trajet du matin et sa prepartion des affaire pour la route ( récuperation de son sac, cahier, café du matin ...etc )
-2eme Niveau : Journée de cours, résolution de probleme, quiz et interogation du joueur ( une resolution de probleme lorsque qu'il entre dans une classe, interagie avec un PNG ...etc )
-3eme Niveau : Gestion d'un projet de groupe, le joueur doit reglé des conflit de code, choisir une equipe et mener un projet a son terme ...etc
-4eme Niveau : Boss de fin. Le joueur doit reussir une epreuve de vitesse et recolter le plus d'ordinateur. 
+Après la création du groupe, nous avons choisi de partir sur un jeu en 2D, de plateforme sur le logiciel Unity. Ce jeu a pour but de présenter le quotidien d'un élève EPSI ainsi que de mettre à l'épreuve le joueur. 
+De cette manière nous avons décidé de créer un jeu à 3 niveaux, chaque niveau représentant une partie du parcours scolaire d'un EPSIEN. 
+1er niveau : son trajet du matin et sa préparation des affaires pour la route (Récupération de son sac, cahier, café du matin ... Etc)
+2e niveau : journée de cours, résolution de problème, quiz et interrogation du joueur (Une résolution de problème lorsque qu'il entre dans une classe, interagie avec un PNG ...Etc)
+3e niveau : gestion d'un projet de groupe, le joueur doit régler des conflits de code, choisir une équipe et mener un projet à son terme ... Etc
+4e niveau : boss de fin. Le joueur doit réussir une épreuve de vitesse et récolter le plus d'ordinateur. 
 
-## Themes mis en avant
-chaques niveau essaye de mettre en avant des etapes importante lors d'un parcours etudiant à l'EPSI.
-- La Vie Quotidienne d'un Étudiant EPSI : Le jeu explore son quotidien, ses défis, et sa progression au cours de l'année.
-- Résolution de Problèmes : Le deuxième niveau est plus centré sur les défis intellectuels, il met en avant la logique et la pensée critique de l'éléve.
-- Gestion de Projet : Le troisième niveau fait referance au travail collaboratif, la gestion de projet et la résolution de conflits dans un cadre de projet. 
-- Challenge Final : Le quatrième niveau, avec le "boss de fin", symbolise les examens de fin de modules ou la fin du parcours scolaire à l'EPSI.
+## Thèmes mis en avant
+Chaque niveau essaye de mettre en avant des étapes importantes lors d'un parcours étudiant à l'EPSI.
+- La Vie Quotidienne d'un Étudiant EPSI : le jeu explore son quotidien, ses défis, et sa progression au cours de l'année.
+- Résolution de Problèmes : le deuxième niveau est plus centré sur les défis intellectuels, il met en avant la logique et la pensée critique de l'élève.
+- Gestion de Projet : le troisième niveau fait référence au travail collaboratif, la gestion de projet et la résolution de conflits dans un cadre de projet. 
+- Challenge Final : le quatrième niveau, avec le "boss de fin", symbolise les examens de fin de modules ou la fin du parcours scolaire à l'EPSI.
 
-## Réflexion sur l'utilisation du jeux 
-Le jeu peut etre utilisée comme outils de communication lors des salon etudiant ou des journées portes ouvertes. Cela permet de ce faire une idée du quotidient d'un eleve tout en jouant sur un jeu créer par des eleves eux memes. Un outils tel que ce jeux permet d'etre original et ce démarquer des autres ecoles.
+## Réflexion sur l'utilisation du jeu 
+Le jeu peut être utilisé comme outils de communication lors des salons étudiant ou des journées portes ouvertes. Cela permet de se faire une idée du quotidien d'un élève tout en jouant sur un jeu créer par des élèves eux-mêmes. Un outil tel que ce jeu permet d'être original et de se démarquer des autres écoles.
 
-## Plus-valus du projet
-Les joueurs peuvent ce rendre compte des compétance que l'ont peut acquerir lors d'un parcours scolaire a l'EPSI. Il sert de vitrine et de projet à présenter à de futurs éléves. 
-D'autre part les futurs éléves peuvent trouver dans ce jeu un sentiment d'appartenance a l'écoles. 
+## Plus-value du projet
+Les joueurs peuvent se rendre compte des compétences que l'on peut acquérir lors d'un parcours scolaire à l'EPSI. Il sert de vitrine et de projet à présenter à de futurs élevés. 
+D'autre part, les futurs élevés peuvent trouver dans ce jeu un sentiment d'appartenance à l'école. 
 
-## Accesibilité
-- Integration de déscription audio pour les elements visuel
+## Accessibilité
+- Intégration de description audio pour les éléments visuels
 - Contraste élevé et grande police d'écriture pour les malvoyants
 - Sous-titre lors des dialogues
-- Indication visuel pour les actions importantes
-- Tutoriel détailé pour apprendre a joué au jeu
+- Indication visuelle pour les actions importantes
+- Tutoriel détaillé pour apprendre a joué au jeu.
 - Ne pas surcharger le visuel d'informations
 
 ## CONCLUSION 
-Le projet est d'une part un jeu divertisant mais aussi un outil de communication puissant à mettre en avant en toute occasion. Il permet de mettre en avant les valeurs et la dynamique de l'école pour un public qui possede deja une appétance pour l'informatique ou les jeux videos. En mettant en place des des fonctionalité inclusif et accessible, ce jeu pourrait devenir encore plus attractif. 
+Le projet est d'une part un jeu divertissant, mais aussi un outil de communication puissant à mettre en avant en toute occasion. Il permet de mettre en avant les valeurs et la dynamique de l'école pour un public qui possède déjà une appétence pour l'informatique ou les jeux vidéo. En mettant en place des fonctionnalités inclusif et accessible, ce jeu pourrait devenir encore plus attractif. 
 
 ## Ressources utilisés 
 - https://gamingcampus.fr/boite-a-outils/les-logiciels-de-jeux-video.html

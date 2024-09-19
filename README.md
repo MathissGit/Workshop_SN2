@@ -85,6 +85,7 @@ D'autre part les futurs éléves peuvent trouver dans ce jeu un sentiment d'appa
 ## Auteurs
 - [Mathis SINEUX](https://github.com/MathissGit)
 - [Hady BALDE](https://github.com/mugenbankai)
+- [Aya HANDIRI](https://github.com/ayahandiri)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

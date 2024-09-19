@@ -75,6 +75,9 @@ D'autre part les futurs éléves peuvent trouver dans ce jeu un sentiment d'appa
 - Tutoriel détailé pour apprendre a joué au jeu
 - Ne pas surcharger le visuel d'informations
 
+## CONCLUSION 
+Le projet est d'une part un jeu divertisant mais aussi un outil de communication puissant à mettre en avant en toute occasion. Il permet de mettre en avant les valeurs et la dynamique de l'école pour un public qui possede deja une appétance pour l'informatique ou les jeux videos. En mettant en place des des fonctionalité inclusif et accessible, ce jeu pourrait devenir encore plus attractif. 
+
 ## Ressources utilisés 
 - https://gamingcampus.fr/boite-a-outils/les-logiciels-de-jeux-video.html
 - https://youtu.be/uSHhY5eZrkQ?si=B4uuIZ-k-Ui1xo5M
